@@ -1,15 +1,15 @@
 ﻿# 个人sublime设置
 
-1.  [个人使用sublime的插件](#user-content-sublime_1)
-2.  [0sublime设置+绑定键](#user-content-0sublime)
-3.  [1汉化包(放到install package)](#user-content-1install-package)
-4.  [2c_c++设置(放到user文件夹)](#user-content-2c_cuser)
-5.  [3python代码段设置+时间设置(放到user文件夹)](#user-content-3pythonuser)
-6.  [4asm汇编设置(放到user文件夹)](#user-content-4asmuser)
-7.  [5批处理设置(放到user文件夹)](#user-content-5user)
-8.  [6Java设置(放到user文件夹)](#user-content-6javauser)
-9.  [7php设置(放到user文件夹)](#user-content-7phpuser)
-10. [sublime注册码.txt](#user-content-sublime_1)
+1.  [个人使用sublime的插件](#user-content-个人使用sublime的插件)
+2.  [0sublime设置+绑定键](#user-content-0sublime设置绑定键)
+3.  [1汉化包(放到install package)](#user-content-1汉化包放到install-package)
+4.  [2c_c++设置(放到user文件夹)](#user-content-2c_c设置放到user文件夹)
+5.  [3python代码段设置+时间设置(放到user文件夹)](#user-content-3python代码段设置时间设置放到user文件夹)
+6.  [4asm汇编设置(放到user文件夹)](#user-content-4asm汇编设置放到user文件夹)
+7.  [5批处理设置(放到user文件夹)](#user-content-5批处理设置放到user文件夹)
+8.  [6Java设置(放到user文件夹)](#user-content-6java设置放到user文件夹)
+9.  [7php设置(放到user文件夹)](#user-content-7php设置放到user文件夹)
+10. [sublime注册码.txt](#user-content-sublime注册码)
 
 
 
