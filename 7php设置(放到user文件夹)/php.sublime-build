@@ -1,0 +1,7 @@
+{
+
+"cmd": ["D:\\php\\wamp64\\bin\\php\\php5.6.19\\php.exe", "$file"],
+"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+"path": "D:\\php\\wamp64\\bin\\php\\php5.6.19",
+"selector": "source.php"
+}

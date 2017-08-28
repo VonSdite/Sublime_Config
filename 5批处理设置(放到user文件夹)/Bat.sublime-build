@@ -1,0 +1,10 @@
+{
+
+	"variants": 
+	[
+		{	
+			"name": "RunInCommand",
+        	"shell_cmd": "start cmd /c \"\"${file_path}/${file_name}\" & pause>nul\""
+		}
+	]
+}

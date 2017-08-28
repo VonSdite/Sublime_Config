@@ -1,0 +1,31 @@
+<snippet>
+    <content><![CDATA[
+assume cs:code
+
+stack segment
+    db 128 dup(0)
+stack ends
+
+code segment
+    start:
+        mov ax, stack
+        mov ss, ax
+        mov sp, 128
+
+        $1
+        $2
+        $3
+        $4
+        $5
+
+        mov ax, 4c00h
+        int 21h
+        
+code ends
+end start
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>asm</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.assembly</scope>
+</snippet>

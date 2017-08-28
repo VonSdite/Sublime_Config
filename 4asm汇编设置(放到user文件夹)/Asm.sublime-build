@@ -1,0 +1,11 @@
+{
+ 	"encoding":"cp936",
+	"variants": 
+	[
+		{	
+		"name": "RunInCommand",
+        	// "shell_cmd": "dosbox",
+        	"shell_cmd": "echo. & copy /y \"C:\\Users\\Sdite\\AppData\\Local\\DOSBox\\dosbox.conf\" \"C:\\Users\\Sdite\\AppData\\Local\\DOSBox\\dosbox-0.74.conf\" & echo masm ${file_base_name};>>\"C:\\Users\\Sdite\\AppData\\Local\\DOSBox\\dosbox-0.74.conf\" & echo link ${file_base_name};>>\"C:\\Users\\Sdite\\AppData\\Local\\DOSBox\\dosbox-0.74.conf\" & dosbox"
+		}
+	]
+}
