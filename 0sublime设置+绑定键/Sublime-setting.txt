@@ -3,7 +3,6 @@
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"default_encoding": "utf-8",
-	"dpi_scale": 1.0,
 	"draw_minimap_border": true,
 	"expand_tabs_on_save": true,
 	"file_exclude_patterns":
