@@ -1,7 +1,9 @@
 ﻿{
 	"always_show_minimap_viewport": true,
+	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"auto_match_enabled": true,
+	"color_scheme": "Packages/User/Monokai (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE).tmTheme",
 	"default_encoding": "utf-8",
 	"draw_minimap_border": true,
 	"expand_tabs_on_save": true,
@@ -26,11 +28,13 @@
 		"*.psd",
 		"*.db"
 	],
-	"font_size": 19,
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"0_package_control_loader",
+		"Markdown",
 		"RestructuredText",
 		"Vintage"
 	],
@@ -40,6 +44,6 @@
 	],
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"update_check": true,
+	"update_check": false,
 	"word_wrap": true
 }
