@@ -3,10 +3,8 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_match_enabled": true,
-	"color_scheme": "Packages/User/Monokai (SublimePythonIDE) (SublimePythonIDE) (SublimePythonIDE).tmTheme",
 	"default_encoding": "utf-8",
 	"draw_minimap_border": true,
-	"expand_tabs_on_save": true,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -33,9 +31,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"0_package_control_loader",
-		"Markdown",
-		"RestructuredText",
 		"Vintage"
 	],
 	"rulers":
