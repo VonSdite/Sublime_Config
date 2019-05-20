@@ -18,30 +18,42 @@
     // # @Author   : Sdite
     // # @DateTime : 2017-08-28 11:11:29
     // 需要在user文件夹中放入 showtime.py
-    {"keys": ["ctrl+1"], "command": "add_author" }, 
+    {
+        "keys": ["ctrl+1"], 
+        "command": "add_author" 
+    }, 
 
     // f2 运行python的控制台
     // 需要 sublimeREPL
-    {"keys":["f2"],
-    "caption": "SublimeREPL: Python",
-    "command": "run_existing_window_command", "args":
-    {"id": "repl_python",
-    "file": "config/Python/Main.sublime-menu"}
+    {
+        "keys": ["f2"],
+        "caption": "SublimeREPL: Python",
+        "command": "run_existing_window_command", 
+        "args": {
+            "id": "repl_python",
+            "file": "config/Python/Main.sublime-menu"
+        }
     },
 
     // f1 运行py程序
     // 需要 sublimeREPL
-    {"keys":["f1"],
-    "caption": "SublimeREPL: Python - RUN current file",
-    "command": "run_existing_window_command", "args":
-    {"id": "repl_python_run",
-    "file": "config/Python/Main.sublime-menu"}},
+    {
+        "keys": ["f1"],
+        "caption": "SublimeREPL: Python - RUN current file",
+        "command": "run_existing_window_command", "args":
+        {
+            "id": "repl_python_run",
+            "file": "config/Python/Main.sublime-menu"
+        }
+    },
 
     // 运行markdown_preview 预览markdown效果
-    { "keys": ["f3"], "command": "markdown_preview", 
-        "args": {
-            "target": "browser", 
-            "parser": "default",
-            } 
+    { 
+        "keys": ["f3"], "command": "omni_markup_preview",
+        "context": [
+            {
+                "key": "omnimarkup_is_enabled", "operator": "equal", "operand": ""
+            }
+        ]
     }
 ]

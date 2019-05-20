@@ -1,44 +1,44 @@
 ﻿{
-	"always_show_minimap_viewport": true,
-	"auto_complete": true,
-	"auto_complete_commit_on_tab": true,
-	"auto_match_enabled": true,
-	"default_encoding": "utf-8",
-	"draw_minimap_border": true,
-	"file_exclude_patterns":
-	[
-		"*.pyc",
-		"*.pyo",
-		"*.exe",
-		"*.dll",
-		"*.obj",
-		"*.a",
-		"*.lib",
-		"*.so",
-		"*.dylib",
-		"*.ncb",
-		"*.sdf",
-		"*.suo",
-		"*.pdb",
-		"*.idb",
-		".DS_Store",
-		"*.class",
-		"*.psd",
-		"*.db"
-	],
-	"font_size": 16,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"rulers":
-	[
-		95
-	],
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"update_check": false,
-	"word_wrap": true
+    "always_show_minimap_viewport": true,
+    "auto_complete": true,
+    "auto_complete_commit_on_tab": true,
+    "auto_match_enabled": true,
+    "default_encoding": "utf-8",
+    "draw_minimap_border": true,
+    "file_exclude_patterns":
+    [
+       "*.pyc",
+       "*.pyo",
+       "*.exe",
+       "*.dll",
+       "*.obj",
+       "*.a",
+       "*.lib",
+       "*.so",
+       "*.dylib",
+       "*.ncb",
+       "*.sdf",
+       "*.suo",
+       "*.pdb",
+       "*.idb",
+       ".DS_Store",
+       "*.class",
+       "*.psd",
+       "*.db"
+    ],
+    "font_size": 14,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+       "Vintage"
+    ],
+    "rulers":
+    [
+       95
+    ],
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "update_check": false,
+    "word_wrap": true
 }
