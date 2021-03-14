@@ -140,11 +140,9 @@ E36B85CC 84991F19 7575D828 470A92AB
 
 ---
 
-### 1汉化包(放到install package)
+### 1汉化
 
-- sublime的汉化，放到sublime根目录的 install package中
-
----
+-   安装插件 `ChineseLocalizations`
 
 ### 2c_c++设置(放到user文件夹)
 
